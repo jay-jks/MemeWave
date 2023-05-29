@@ -25,7 +25,7 @@ The MemeWave is a fun and entertaining application designed to provide users wit
 ## Screenshots
 <br>
 
-<table border-radius : "10px">
+<table>
     <tr>
         <td><img src = "/screenshots/1.jpg" ></td>
         <td><img src = "/screenshots/2.jpg" ></td>
