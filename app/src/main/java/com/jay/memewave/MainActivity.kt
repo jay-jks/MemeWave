@@ -65,8 +65,7 @@ class MainActivity : AppCompatActivity() {
         val intent = Intent(Intent.ACTION_SEND)
         intent.putExtra(Intent.EXTRA_TEXT, "Hey, checkout this cool meme I found \n$memeUrl")
         intent.type = "text/plain"
-        startActivity(Intent.createChooser(intent, "Share Via"))
-
+        startActivity(Intent.createChooser(intent, "Share this meme using.."))
     }
 
     private fun loadMeme() {
