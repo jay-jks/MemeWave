@@ -25,7 +25,7 @@ The MemeWave is a fun and entertaining application designed to provide users wit
 ## Screenshots
 <br>
 
-<table border="1px solid black">
+<table>
     <tr>
         <td><img src = "/screenshots/1.jpg" ></td>
         <td><img src = "/screenshots/2.jpg" ></td>
@@ -35,7 +35,7 @@ The MemeWave is a fun and entertaining application designed to provide users wit
 
 <br>
 
-## Libraries used and their documentation
+## Libraries used
 
 - [**Volley**](https://developer.android.com/training/volley)
 - [**Glide**](https://github.com/bumptech/glide)
