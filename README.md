@@ -1,15 +1,12 @@
 <div align="center">
         
 # MemeWave | A fun meme app
-        
+<hr>    
 </div>
 
 <div align="left">
         
-The MemeWave is a fun and entertaining application designed to provide users with a vast collection of hilarious and popular memes.   
-Equipped with the powerful Volley and Glide libraries, it offers an immersive experience.  
-With the seamless integration of Volley, the app effortlessly retrieves meme data from servers. 
-Additionally, the integration of Glide enables smooth and optimized loading of meme images, videos, and GIFs. 
+The MemeWave is a fun and entertaining application designed to provide users with a vast collection of hilarious and popular memes. Equipped with the powerful Volley and Glide libraries, it offers an immersive experience. With the seamless integration of Volley, the app effortlessly retrieves meme data from servers. Additionally, the integration of Glide enables smooth and optimized loading of meme images, videos, and GIFs. 
 
 <br>
         
