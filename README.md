@@ -1,7 +1,7 @@
 <div align="center">
         
 # MemeWave | A fun meme app
-<hr>    
+
 </div>
 
 <div align="left">
@@ -25,7 +25,7 @@ The MemeWave is a fun and entertaining application designed to provide users wit
 ## Screenshots
 <br>
 
-<table>
+<table border="1px solid black">
     <tr>
         <td><img src = "/screenshots/1.jpg" ></td>
         <td><img src = "/screenshots/2.jpg" ></td>
